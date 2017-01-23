@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+A New Era Begins!!!
+
+Starting GitHub
